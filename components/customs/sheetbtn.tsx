@@ -20,7 +20,7 @@ export function SheetBtn() {
           </Button>
         </SheetTrigger>
         <SheetContent>
-          <SheetTitle className="text-2xl  p-4">
+          <SheetTitle className="text-2xl  p-8 pt-10">
             Welcome to{" "}
             <span className="text-purple-500 text-clip font-bold">
               Foreen4-one
