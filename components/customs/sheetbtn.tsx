@@ -26,7 +26,7 @@ export function SheetBtn() {
               Foreen4-one
             </span>
           </SheetTitle>
-          <div className="flex flex-col  text-black items-center gap-4 hidden   ">
+          <div className="flex flex-col  text-black items-center gap-8 text-lg text-black ">
             <Link href="\dashboard">marcuoware@gmail.com</Link>
             <Link href="\library">my library</Link>
             <Link href="\profile">profile</Link>
