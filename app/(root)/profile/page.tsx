@@ -5,7 +5,7 @@ export default function page() {
   return (
     <section className="bg-pink-100  h-full">
       <section className="p-8 md:p-16 md:w-[50%] md:mx-auto ">
-        <div className="rounded-lg shadow-lg bg-purple-500 h-full bg-gradient-to-l w-full from-pink-500  ">
+        <div className="rounded-lg shadow-lg bg-purple-500 h-full bg-gradient-to-l w-full from-pink-500  pt-10 ">
           <div className="flex  items-start gap-4 w-[70%] h-full p-4">
             <div className="">
               <div className="text-5xl w-50 h-30 mr-14   font-bold rounded-full shadow-xl flex p-4 items-center  justify-evenly w-full   gap-8">
