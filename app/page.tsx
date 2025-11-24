@@ -11,7 +11,7 @@ export default function Home() {
       </h2>
       <h4 className="text-lg text-black text-center ">
         share your exclusive content or discover amazing creators. Join our
-        community today.
+        community today .
       </h4>
       <div className="flex item-center gap-4 text-lg md:text-2xl tracking-wider ">
         <button
