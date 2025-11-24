@@ -12,7 +12,7 @@ import Link from "next/link";
 
 export function SheetBtn() {
   return (
-    <div className="md:hiddengit">
+    <div className="md:hidden">
       <Sheet>
         <SheetTrigger asChild>
           <Button variant="outline">
