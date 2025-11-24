@@ -15,7 +15,7 @@ const NavBar = () => {
   }, [pathname]);
 
   return (
-    <div className="flex items-center justify-between p-4 md:p-6 ">
+    <div className="flex items-center justify-between p-4 ">
       <div className="text-lg text-black">{path}</div>
       <NavList />
     </div>
