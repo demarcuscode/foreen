@@ -10,7 +10,7 @@ export default function page() {
         <div className="object-contain ">
           <Image
             src="/assets/3dicons-folder-fav-dynamic-color.png"
-            alt="folder"
+            alt="folder ids amofaodijfoj"
             width={100}
             height={100}
             className="object-contain"
